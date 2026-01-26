@@ -1,1 +1,148 @@
-samarthya
+# 🚀 SAMARTHYA
+
+Skill-Based MSME–Student Collaboration Platform
+Theme: TH01 – Open Innovation
+Event: INNOVIT 2026
+Vision: Ideas Powering Atmanirbhar Bharat 🇮🇳
+
+
+## 📌 WHAT IS SAMARTHYA?
+
+AI-powered platform connecting MSMEs + Students
+Works through verified, outcome-based micro-projects
+Government-aligned, transparent & auditable system
+
+## ❗ PROBLEM WE SOLVE
+
+Access Gap: 63+ million MSMEs lack local talent
+Skill Mismatch: Students have theory, not real-world validation
+Trust Deficit: MSMEs cannot verify fresher skills
+Accountability Gap: Skilling schemes not linked to real outcomes
+
+## 💡 OUR SOLUTION
+
+Short-term micro-projects
+AI skill matching
+Verified proof-of-work
+Government-grade traceability
+
+## 🎯 CORE OBJECTIVES
+
+MSMEs post real business problems
+Students get verified digital portfolios
+Government gets real-time skilling analytics
+Focus on outcome > attendance
+
+## ⚙️ PLATFORM WORKFLOW
+
+🏭 MSMEs
+Post tasks: Website, Social Media, Inventory, etc.
+Hire local, verified talent
+
+🎓 Students
+AI-based skill matching (not GPA)
+Gain real-world experience
+Build industry-validated portfolios
+
+🏛️ Government
+Track skill demand
+Monitor task completion
+Ensure transparency & auditability
+
+🚀 KEY INNOVATIONS
+
+Outcome Over Hours: Milestone-based tasks
+Government-Auditable Logs
+Hyper-Local Design: MSME cluster-focused
+Explainable AI (XAI): Bias-aware recommendations
+
+🧱 SYSTEM ARCHITECTURE
+
+Frontend: Student profiles, MSME dashboard, Government panel
+Backend: User & task management, AI skill-task matching, RBAC
+AI Layer: OpenAI Embeddings, LLM engine, automated feedback
+Databases: MongoDB, Qdrant
+DevOps: Docker, CI/CD pipelines
+
+
+## 🧩 Technology Stack -
+
+🎨 Frontend
+HTML
+Tailwind CSS
+
+⚙️ Backend
+Node.js
+Express.js
+JWT Authentication
+Role-Based Access Control (RBAC)
+
+🧠 AI Layer
+OpenAI Embeddings (semantic skill matching)
+LLM-based recommendation engine
+Prompt-based scoring & feedback
+
+🗄️ Databases
+MongoDB (users, tasks, submissions)
+Qdrant Vector Database (semantic search)
+
+☁️ DevOps & Cloud
+Docker
+CI/CD Pipelines
+
+## 🛠️ IMPLEMENTATION PHASES -
+
+| Phase   | Key Tasks                                        |
+| ------- | ------------------------------------------------ |
+| Phase 1 | User onboarding, task posting & submission       |
+| Phase 2 | AI skill-task matching, proof-of-work generation |
+| Phase 3 | Bias monitoring, analytics & scalability         |
+
+## 📈 FUTURE ROADMAP
+
+Udyam & Skill India integration
+National micro-internship ecosystem
+AI skill-gap analysis
+Voice-based interface
+
+## 💰 REVENUE MODEL
+
+Freemium: MSMEs limited free usage
+Partnerships: EdTech & skill platforms
+
+## 🌍 IMPACT
+
+Beneficiaries
+Students → Verified, industry-ready portfolios
+MSMEs → Affordable digital transformation
+Government → Data-driven insights
+
+## Outcomes
+
+Higher employability
+MSME digital inclusion
+Transparent task-based skilling
+Local economic growth
+
+## 🇮🇳 ATMANIRBHAR BHARAT ALIGNMENT
+Promotes indigenous talent
+Strengthens local MSMEs
+Builds self-reliant workforce
+Drives inclusive national growth
+
+## 👥 TEAM
+
+Team Name: CodeSlayers
+Team Leader: Aditi Dubey | 8815370260
+Team Members: 4
+
+## 📚 REFERENCES
+
+Ministry of MSME – Annual Report 2024–25
+Udyam Registration Portal
+Skill India Digital Platform
+Qdrant Vector Database Documentation
+OpenAI LLM & Embeddings
+NASSCOM Foundation – Digital Talent Gap
+MeitY – Data Privacy & Compliance
+
